@@ -1,4 +1,4 @@
-<h1 align="center">سابسکریپشن وارپ رایگان 🌐</h1>
+<h1 align="center">🌐 سابسکریپشن رایگان وارپ 🌐</h1>
 
 <p align="center">
   <img src="https://github.com/SaeedZareen/FreeWarp/blob/main/QRcode.png" alt="بارکد اتصال به پروژه" width="200" height="200">
