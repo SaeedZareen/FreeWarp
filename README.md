@@ -85,6 +85,7 @@ Vless, Vmess, Reality, TUIC, Hysteria, SSH, etc.
 </table>
 
 **افزودن لینک اشتراک رایگان به برنامه هیدیفای نکست**
+
 ابتدا لینک زیر را کپی کنید:
 ```sh
 https://raw.githubusercontent.com/SaeedZareen/FreeWarp/main/export/warp
@@ -113,5 +114,6 @@ https://raw.githubusercontent.com/SaeedZareen/FreeWarp/main/export/warp
 
 <p align="center">
   تشکر از شما برای استفاده از این پروژه! حتما این پروژه رایگان را با دوستان خود نیز به اشتراک بگذارید. 😊
+  
 #اینترنت_برای_همه_یا_هیچکس
 </p>
